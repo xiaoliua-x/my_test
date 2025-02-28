@@ -9,11 +9,11 @@ int main () {
       exit(0);
   }
   
-  printf("hello world111\n");
-  printf("hello world111\n");
-  printf("hello world111\n");
-  printf("hello world111\n");
-  printf("hello world111\n");
-  printf("hello world111\n");
+  printf("hello world\n");
+  printf("hello world\n");
+  printf("hello world\n");
+  printf("hello world\n");
+  printf("hello world\n");
+  printf("hello world\n");
   return 0;
 }
